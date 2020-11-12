@@ -6,7 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/mediator/downloads)](https://packagist.org/packages/laravel-enso/mediator)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/mediator/version)](https://packagist.org/packages/laravel-enso/mediator)
 
-[Mediator](https://refactoring.guru/design-patterns/mediator) implementation for looser package coupliing for [Laravel Enso](https://github.com/laravel-enso/Enso).
+[Mediator](https://refactoring.guru/design-patterns/mediator) implementation for looser package coupling for [Laravel Enso](https://github.com/laravel-enso/Enso).
 
 This package can work independently of the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
 
